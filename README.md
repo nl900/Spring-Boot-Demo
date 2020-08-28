@@ -2,6 +2,8 @@
 
 Docker Compose for Spring Boot application with PostgreSQL.
 
+---
+
 ***To run*** <br/>
 Create an Executable Jar<br/>
 ```shell
