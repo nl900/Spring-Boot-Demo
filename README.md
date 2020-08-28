@@ -16,7 +16,7 @@ $ mkdir -p target/dependency && (cd target/dependency; jar -xf ../*.jar)
 ```
 Run with Docker Compose
 ```shell
-$ docker-compose build && docker-compose up
+$ docker-compose up
 ```
 Verify the application is running at http://localhost:8080 </br>
 
