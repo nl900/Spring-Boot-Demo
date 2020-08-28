@@ -15,4 +15,4 @@ Run with Docker Compose
 ```shell
 $ docker-compose build && docker-compose up
 ```
-Verify the application is running at [localhost:8080] (http://localhost:8080)
+Verify the application is running at localhost:8080
