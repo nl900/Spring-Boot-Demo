@@ -2,7 +2,7 @@
 
 Docker Compose for Spring Boot application with PostgreSQL.
 
----
+----
 
 #### To run </br>
 Create an Executable Jar<br/>
@@ -22,7 +22,7 @@ Verify the application is running at http://localhost:8080 </br>
 
 The healthcheck endpoint is at /actuator/health
 
-----
+-----
 Stop containers
 ```shell
 $ docker-compose down
