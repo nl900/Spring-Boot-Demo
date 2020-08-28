@@ -1,7 +1,7 @@
 # Spring-Boot-Demo
 Docker Compose for Spring Boot application with PostgreSQL. The app has actuator endpoints enabled.<br/>
 ---
-####To run<br/>
+***To run<br/>***
 Create an Executable Jar<br/>
 ```shell
 $ mvn package
