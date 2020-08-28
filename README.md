@@ -1,7 +1,7 @@
 ## Spring-Boot-Demo </br>
-~~~text
-Docker Compose for Spring Boot application with PostgreSQL. The app has actuator endpoints enabled.
-~~~
+
+Docker Compose for Spring Boot application with PostgreSQL.
+
 ***To run*** <br/>
 Create an Executable Jar<br/>
 ```shell
@@ -16,4 +16,7 @@ Run with Docker Compose
 ```shell
 $ docker-compose build && docker-compose up
 ```
-Verify the application is running at http://localhost:8080
+Verify the application is running at http://localhost:8080 </br>
+
+The healthcheck endpoint is at /actuator/health
+
