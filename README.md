@@ -1,6 +1,6 @@
 ## Spring-Boot-Demo </br>
-
 ---
+<pre>Docker Compose for Spring Boot application with PostgreSQL. The app has actuator endpoints enabled.</pre>
 ***To run<br/>***
 Create an Executable Jar<br/>
 ```shell
