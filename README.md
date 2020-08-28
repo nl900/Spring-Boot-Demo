@@ -10,7 +10,7 @@ Create an Executable Jar<br/>
 $ mvn package
 ```
 
-Unpack the fat jar so dependencies and application resources are separate into layers so that most frequently changing resources, the class and static resources, are layered after.
+Unpack the fat jar so dependencies and application resources are separate into layers so that most frequently changing resources, the class and static resources, are layered later.
 ```shell
 $ mkdir -p target/dependency && (cd target/dependency; jar -xf ../*.jar)
 ```
