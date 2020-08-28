@@ -4,7 +4,7 @@ Docker Compose for Spring Boot application with PostgreSQL.
 
 ---
 
-***To run*** <br/>
+===To run
 Create an Executable Jar<br/>
 ```shell
 $ mvn package
