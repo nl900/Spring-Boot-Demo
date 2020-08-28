@@ -20,5 +20,5 @@ $ docker-compose build && docker-compose up
 ```
 Verify the application is running at http://localhost:8080 </br>
 
-The healthcheck endpoint is at /actuator/health
+The healthcheck endpoint is at [link]/actuator/health
 
